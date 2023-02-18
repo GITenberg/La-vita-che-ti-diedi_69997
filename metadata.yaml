@@ -1,0 +1,30 @@
+_repo: La-vita-che-ti-diedi_69997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pirandello, Luigi
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '8041'
+    url: http://www.gutenberg.org/2009/agents/8041
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Luigi_Pirandello
+    - https://en.wikipedia.org/wiki/Luigi_Pirandello
+description: ''
+gutenberg_issued: '2023-02-09'
+identifiers:
+  gutenberg: '69997'
+language: it
+pgterms:marc905: 20210715091947pirandello
+pgterms:marc906: '1924'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aItaly :$bBemporad, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La vita che ti diedi
+url: http://www.gutenberg.org/ebooks/69997
